@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Corbin Uselton <corbinu@decimal.io>
+MAINTAINER jaehong park <iworkist@gmail.com>
 
 ENV TERM xterm
 
